@@ -1,0 +1,11 @@
+{
+  "name": "node-ts-lib-lite",
+  "version": "1.0.0",
+  "description": "Minimal configuration for creating and deploying a Node lib written in TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Glazebrook <Glazy@users.noreply.github.com>",
+  "license": "MIT"
+}
